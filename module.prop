@@ -1,0 +1,6 @@
+id=samsung-disable-shutter
+name=Disable forced shutter sound
+version=v1
+versionCode=1
+author=r-ca
+description=Remove forced enablement of shutter sound on SAMSUNG devices (Tested on OneUI 6.1)
